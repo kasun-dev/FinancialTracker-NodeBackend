@@ -5,7 +5,8 @@ const TransactionSchema = new mongoose.Schema({
     amount: { type: Number, required: true },
     type: { type: String, enum: ["income", "expense"], required: true },
     category: { type: String, required: true },
-    tags: { type: [String] }, 
+    currency: { type: String, default: "LKR" },  //currency default is Rs.
+    tags: { type: [String] },
     recurrence: { type: String, enum: ["none", "daily", "weekly", "monthly"], default: "none" },
     date: { type: Date, required: true },
     notes: { type: String }

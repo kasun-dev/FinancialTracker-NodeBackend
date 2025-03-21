@@ -1,25 +1,43 @@
-const Transaction = require("../models/Transaction");
+const axios = require("axios");
+const Transaction = require("../models/Transactions");
 const Budget = require("../models/Budget");
-const Notification = require("../models/Notification");
 const Goal = require("../models/Goals");
-const moment = require("moment");
+const Notification = require("../models/Notifications");
+
+const EXCHANGE_API_KEY = "0cc4d9306aad0d84f58567a3"; // Your API Key
+const EXCHANGE_API_URL = `https://v6.exchangerate-api.com/v6/${EXCHANGE_API_KEY}/latest/`;
 
 // Create a new transaction
 exports.createTransaction = async (req, res) => {
     try {
-        const { amount, type, category, tags, recurrence, date, notes } = req.body;
+        const { amount, type, category, currency, tags, recurrence, date, notes } = req.body;
 
-        if (!amount || !type || !category || !date) {
+        if (!amount || !type || !category || !date ) {
             return res.status(400).json({ message: "All required fields must be filled" });
         }
 
-        // Convert date to a JavaScript Date object
+        // Convert date to JavaScript Date object
         const transactionDate = new Date(date);
         const month = transactionDate.getMonth() + 1; // JavaScript months are 0-based
         const year = transactionDate.getFullYear();
 
+        let convertedAmount = amount;
+        const userCurrency = currency.toUpperCase();
+
+        // Convert to LKR if needed
+        if (userCurrency !== "LKR") {
+            const exchangeResponse = await axios.get(`${EXCHANGE_API_URL}${userCurrency}`);
+            const exchangeRate = exchangeResponse.data.conversion_rates.LKR;
+
+            if (!exchangeRate) {
+                return res.status(400).json({ message: "Invalid currency or exchange rate not available." });
+            }
+
+            convertedAmount = amount * exchangeRate; // Convert to LKR
+        }
+
+        // Check if expense exceeds the budget
         if (type === "expense") {
-            // Check if the transaction exceeds the budget
             const budget = await Budget.findOne({ userId: req.user.id, category, month, year });
 
             if (budget) {
@@ -35,16 +53,11 @@ exports.createTransaction = async (req, res) => {
                             }
                         }
                     },
-                    {
-                        $group: {
-                            _id: null,
-                            total: { $sum: "$amount" }
-                        }
-                    }
+                    { $group: { _id: null, total: { $sum: "$amount" } } }
                 ]);
 
                 const spentAmount = totalSpent.length > 0 ? totalSpent[0].total : 0;
-                const newTotalSpent = spentAmount + amount;
+                const newTotalSpent = spentAmount + convertedAmount;
 
                 if (newTotalSpent > budget.limit) {
                     await Notification.create({
@@ -59,9 +72,10 @@ exports.createTransaction = async (req, res) => {
         // Create the transaction
         const transaction = await Transaction.create({
             userId: req.user.id,
-            amount,
+            amount: convertedAmount, // Store in LKR
             type,
             category,
+            currency: userCurrency, // Store original currency
             tags,
             recurrence,
             date,
@@ -76,8 +90,9 @@ exports.createTransaction = async (req, res) => {
                 let totalAllocated = 0;
 
                 for (const goal of goals) {
-                    // Calculate the percentage of income to be allocated
-                    const allocationAmount = Math.min(amount * 0.10, goal.targetAmount - (goal.currentSavings || 0)); // Allocating 10% of income
+                    const remainingGoalAmount = goal.targetAmount - (goal.currentSavings || 0);
+                    const allocationAmount = Math.min(convertedAmount * 0.10, remainingGoalAmount); // 10% allocation
+
                     if (allocationAmount > 0) {
                         totalAllocated += allocationAmount;
 
