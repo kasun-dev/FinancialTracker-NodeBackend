@@ -35,10 +35,10 @@ npm install
 ### Set up environment variables:
 Create a `.env` file in the root directory and add the following variables:
 ```sh
-MONGO_URI=mongodb+srv://KasunJ:200206703155@cluster0.26q04.mongodb.net/financeTracker?retryWrites=true&w=majority&appName=Cluster0
-MONGO_URI_TEST=mongodb+srv://KasunJ:200206703155@cluster0.26q04.mongodb.net/financeTrackerTester?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=ItIsASecret
-PORT=5000
+MONGO_URI=****
+MONGO_URI_TEST=****
+JWT_SECRET=****
+PORT=****
 ```
 
 ### Start the application:
