@@ -1,0 +1,88 @@
+config:
+  target: 'http://localhost:5000'  # Your Express app's URL
+  phases:
+    - duration: 60  # Duration of the test in seconds
+      arrivalRate: 5  # Number of virtual users arriving per second
+    - duration: 120  # Optional second phase, change or remove as necessary
+      arrivalRate: 10  # Optional second phase, change or remove as necessary
+  defaults:
+    headers:
+      User-Agent: 'Artillery load test'
+
+scenarios:
+  - flow:
+      # GET request for fetching all users
+      - get:
+          url: '/api/users'
+
+      # POST request to create a user (Example JSON payload)
+      - post:
+          url: '/api/users'
+          json:
+            name: 'John Doe'
+            email: 'johndoe@example.com'
+            password: 'securePassword123'
+
+      # GET request for fetching all transactions
+      - get:
+          url: '/api/transactions'
+
+      # POST request to create a transaction (Example JSON payload)
+      - post:
+          url: '/api/transactions'
+          json:
+            type: 'expense'
+            amount: 100
+            category: 'Food'
+            description: 'Dinner at restaurant'
+
+      # GET request for fetching all budgets
+      - get:
+          url: '/api/budgets'
+
+      # POST request to create a budget (Example JSON payload)
+      - post:
+          url: '/api/budgets'
+          json:
+            category: 'Food'
+            limit: 500
+            month: 3
+            year: 2025
+
+      # GET request for generating a report
+      - get:
+          url: '/api/reports'
+
+      # POST request to create a report (Example JSON payload)
+      - post:
+          url: '/api/reports'
+          json:
+            type: 'monthly'
+            startDate: '2025-03-01'
+            endDate: '2025-03-31'
+            categories: ['Food', 'Transport']
+
+      # GET request for notifications
+      - get:
+          url: '/api/notify'
+
+      # POST request to create a notification (Example JSON payload)
+      - post:
+          url: '/api/notify'
+          json:
+            message: 'Your order has been shipped!'
+            userId: 'someUserId'
+
+      # GET request for goals
+      - get:
+          url: '/api/goals'
+
+      # POST request to create a goal (Example JSON payload)
+      - post:
+          url: '/api/goals'
+          json:
+            goalName: 'Buy a new laptop'
+            targetAmount: 1500
+            currentSavings: 500
+            deadline: '2025-12-31'
+            autoAllocate: true

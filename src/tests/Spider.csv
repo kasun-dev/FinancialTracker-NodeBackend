@@ -1,0 +1,24 @@
+ID,Source,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Body,Highest Alert,Note,Tags
+1,Proxy,Tue Mar 11 16:33:09 IST 2025,GET,http://localhost:5000/api/users,200,OK,1018,374,Medium,false,JSON
+4,Proxy,Tue Mar 11 16:49:42 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,129,33,Medium,false,JSON
+6,Proxy,Tue Mar 11 16:49:51 IST 2025,POST,http://localhost:5000/api/users/register,201,Created,479,42,Medium,false,JSON
+7,Proxy,Tue Mar 11 16:50:20 IST 2025,POST,http://localhost:5000/api/users/login,200,OK,262,310,Medium,false,JSON
+8,Proxy,Tue Mar 11 16:51:34 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,124,35,Medium,false,JSON
+10,Proxy,Tue Mar 11 16:51:57 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,109,35,Medium,false,JSON
+11,Proxy,Tue Mar 11 16:53:53 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,123,35,Medium,false,JSON
+12,Proxy,Tue Mar 11 16:54:02 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,9,181,Medium,false,
+13,Proxy,Tue Mar 11 16:55:28 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,6,181,Medium,false,
+14,Proxy,Tue Mar 11 17:00:38 IST 2025,POST,http://localhost:5000/api/goals,201,Created,176,283,Medium,false,JSON
+15,Proxy,Tue Mar 11 17:02:08 IST 2025,POST,http://localhost:5000/api/goals,201,Created,131,289,Medium,false,JSON
+16,Proxy,Tue Mar 11 17:02:11 IST 2025,POST,http://localhost:5000/api/goals,201,Created,135,289,Medium,false,JSON
+17,Proxy,Tue Mar 11 17:02:35 IST 2025,POST,http://localhost:5000/api/goals,201,Created,124,284,Medium,false,JSON
+18,Proxy,Tue Mar 11 17:04:52 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,7,148,Medium,false,
+19,Proxy,Tue Mar 11 17:05:17 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,174,299,Medium,false,JSON
+21,Proxy,Tue Mar 11 17:10:40 IST 2025,POST,http://localhost:5000/api/reports,201,Created,282,317,Medium,false,JSON
+22,Proxy,Tue Mar 11 17:11:53 IST 2025,POST,http://localhost:5000/api/reports,401,Unauthorized,7,44,Medium,false,JSON
+23,Proxy,Tue Mar 11 17:12:01 IST 2025,POST,http://localhost:5000/api/reports,201,Created,249,317,Medium,false,JSON
+24,Proxy,Tue Mar 11 17:16:31 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,4,44,Medium,false,JSON
+25,Proxy,Tue Mar 11 17:16:39 IST 2025,POST,http://localhost:5000/api/budgets,201,Created,245,226,Medium,false,JSON
+26,Proxy,Tue Mar 11 17:16:55 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,126,228,Medium,false,JSON
+27,Proxy,Tue Mar 11 17:17:10 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,152,299,Medium,false,JSON
+28,Proxy,Tue Mar 11 17:17:17 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,4,174,Medium,false,

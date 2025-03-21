@@ -1,0 +1,1001 @@
+ID,Req. Timestamp,Resp. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body
+11122,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,234,274,35
+11123,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,POST,http://localhost:5000/api/goals,201,Created,248,274,284
+11124,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,445,287,131
+11125,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,213,269,299
+11126,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,245,269,299
+11127,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,147
+11128,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,148
+11129,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,148
+11130,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,149
+11131,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,150
+11132,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,151
+11133,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,269,274,35
+11134,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,221,274,35
+11135,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,208,274,35
+11136,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,242,268,228
+11137,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:24 IST 2025,POST,http://localhost:5000/api/goals,201,Created,197,274,284
+11138,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,223,269,299
+11139,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,155,274,35
+11140,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,167,269,299
+11141,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/reports,201,Created,383,274,369
+11142,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,149,274,35
+11143,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,154,268,228
+11144,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,187,274,35
+11145,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/goals,201,Created,135,274,284
+11146,Tue Mar 11 17:27:24 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,374,287,131
+11147,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,159,274,35
+11148,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,178,269,299
+11149,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,178,269,299
+11150,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,139
+11151,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,3,287,140
+11152,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,140
+11153,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,141
+11154,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,142
+11155,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,142
+11156,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,143
+11157,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,165,274,35
+11158,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,160,268,228
+11159,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,165,274,35
+11160,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/goals,201,Created,179,274,284
+11161,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,141,276,33
+11162,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,137,274,35
+11163,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,124,269,299
+11164,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,146,269,299
+11165,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/reports,201,Created,360,274,370
+11166,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,164,274,35
+11167,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,164,268,228
+11168,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,163,274,35
+11169,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/goals,201,Created,172,274,284
+11170,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,136,276,33
+11171,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,129,274,35
+11172,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,140,269,299
+11173,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,121,269,299
+11174,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,146,274,35
+11175,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,151,274,35
+11176,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,160,268,228
+11177,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/goals,201,Created,155,274,284
+11178,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,154,276,33
+11179,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,155,274,35
+11180,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,145,269,299
+11181,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,159,269,299
+11182,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/reports,201,Created,268,274,371
+11183,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,125,274,35
+11184,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,154,274,35
+11185,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,157,268,228
+11186,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/goals,201,Created,158,274,284
+11187,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,150,276,33
+11188,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,155,274,35
+11189,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,148,269,299
+11190,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,153,269,299
+11191,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,127,274,35
+11192,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,110,274,35
+11193,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,124,268,228
+11194,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/goals,201,Created,141,274,284
+11195,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,154,276,33
+11196,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,158,274,35
+11197,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,164,269,299
+11198,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,POST,http://localhost:5000/api/reports,201,Created,292,274,372
+11199,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,164,274,35
+11200,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,177,269,299
+11201,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:25 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,165,274,35
+11202,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,192,268,228
+11203,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,164,274,35
+11204,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/goals,201,Created,207,274,284
+11205,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,191,276,33
+11206,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,169,269,299
+11207,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,164,274,35
+11208,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,169,274,35
+11209,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,191,269,299
+11210,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,107,274,35
+11211,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,162,268,228
+11212,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/goals,201,Created,124,274,284
+11213,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,173
+11214,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,174
+11215,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,175
+11216,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,176
+11217,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,1,287,177
+11218,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,145,276,33
+11219,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,157,269,299
+11220,Tue Mar 11 17:27:25 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/reports,201,Created,323,274,372
+11221,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,129,274,35
+11222,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,163,274,35
+11223,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,120,274,35
+11224,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,157,269,299
+11225,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,143,268,228
+11226,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,120,276,33
+11227,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,130,269,299
+11228,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,135,274,35
+11229,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,134,274,35
+11230,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,123,274,35
+11231,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,123,269,299
+11232,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,124,268,228
+11233,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,117,276,33
+11234,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,141,269,299
+11235,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/reports,201,Created,267,274,373
+11236,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,124,274,35
+11237,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,153,274,35
+11238,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,147,274,35
+11239,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,133,269,299
+11240,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,122,268,228
+11241,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,122,269,299
+11242,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,134,274,35
+11243,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,137,274,35
+11244,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,187,274,35
+11245,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,172,268,228
+11246,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,190,269,299
+11247,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,136,269,299
+11248,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,105,274,35
+11249,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,POST,http://localhost:5000/api/reports,201,Created,270,274,317
+11250,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,153,274,35
+11251,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,153,268,228
+11252,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,165,274,35
+11253,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,157,269,299
+11254,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,149,269,299
+11255,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:26 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,157,274,35
+11256,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,141,274,35
+11257,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,137,274,35
+11258,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,145,269,299
+11259,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,150,269,299
+11260,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,132,274,35
+11261,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,115,274,35
+11262,Tue Mar 11 17:27:26 IST 2025,Tue Mar 11 17:27:27 IST 2025,POST,http://localhost:5000/api/reports,201,Created,320,274,317
+11263,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,135,274,35
+11264,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,142,269,299
+11265,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,144,269,299
+11266,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,160,274,35
+11267,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,156,274,35
+11268,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,148,274,35
+11269,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,152,269,299
+11270,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,178,269,299
+11271,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,155,274,35
+11272,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,149,274,35
+11273,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,POST,http://localhost:5000/api/reports,201,Created,341,274,364
+11274,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,154,274,35
+11275,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,123,269,299
+11276,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,120,274,35
+11277,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,153,274,35
+11278,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,161,269,299
+11279,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,130,274,35
+11280,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,125,269,299
+11281,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,135,274,35
+11282,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,147,274,35
+11283,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,158,269,299
+11284,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,POST,http://localhost:5000/api/reports,201,Created,271,274,364
+11285,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,135,274,35
+11286,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,112,274,35
+11287,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,172,269,299
+11288,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,192,274,35
+11289,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,182,269,299
+11290,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,141,274,35
+11291,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,128,274,35
+11292,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:27 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,137,269,299
+11293,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:28 IST 2025,POST,http://localhost:5000/api/reports,201,Created,289,274,365
+11294,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,147,274,35
+11295,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,153,269,299
+11296,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,159,274,35
+11297,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,165,274,35
+11298,Tue Mar 11 17:27:27 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,158,269,299
+11299,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,153,274,35
+11300,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,161,274,35
+11301,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,193,269,299
+11302,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,156,274,35
+11303,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,163,269,299
+11304,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,154,274,35
+11305,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,199,274,35
+11306,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,POST,http://localhost:5000/api/reports,201,Created,363,274,366
+11307,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,160,269,299
+11308,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,189,274,35
+11309,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,180,269,299
+11310,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,169,274,35
+11311,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,168,274,35
+11312,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,187,269,299
+11313,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,164,274,35
+11314,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,163,269,299
+11315,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,157,274,35
+11316,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,158,274,35
+11317,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,POST,http://localhost:5000/api/reports,201,Created,353,274,366
+11318,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,190,269,299
+11319,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,125,274,35
+11320,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,252,274,35
+11321,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,264,269,299
+11322,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,152,274,35
+11323,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:28 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,169,269,299
+11324,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:29 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,170,274,35
+11325,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:29 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,270,274,35
+11326,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:29 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,258,269,299
+11327,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:29 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,275,274,35
+11328,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:29 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,206,269,299
+11329,Tue Mar 11 17:27:28 IST 2025,Tue Mar 11 17:27:29 IST 2025,POST,http://localhost:5000/api/reports,201,Created,406,274,367
+11330,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:29 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,178,274,35
+11331,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:29 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,224,274,35
+11332,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:29 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,212,269,299
+11333,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:29 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,194,274,35
+11334,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:29 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,197,269,299
+11335,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:30 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1183,274,35
+11336,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:30 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,1442,269,299
+11337,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:30 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1448,274,35
+11338,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:30 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,1452,274,35
+11339,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,1752,269,299
+11340,Tue Mar 11 17:27:29 IST 2025,Tue Mar 11 17:27:31 IST 2025,POST,http://localhost:5000/api/reports,201,Created,1958,274,367
+11341,Tue Mar 11 17:27:30 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,759,274,35
+11342,Tue Mar 11 17:27:30 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,461,269,299
+11343,Tue Mar 11 17:27:30 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,454,274,35
+11344,Tue Mar 11 17:27:30 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,454,274,35
+11345,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,225,269,299
+11346,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,278,274,35
+11347,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,239,269,299
+11348,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,265,274,35
+11349,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,271,274,35
+11350,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,227,269,299
+11351,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,POST,http://localhost:5000/api/reports,201,Created,484,274,368
+11352,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,204,274,35
+11353,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,153,269,299
+11354,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,134,274,35
+11355,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,143,274,35
+11356,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,154,269,299
+11357,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,148,274,35
+11358,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,130,269,299
+11359,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,143,274,35
+11360,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,171,274,35
+11361,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,124,274,35
+11362,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,151,269,299
+11363,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,POST,http://localhost:5000/api/reports,201,Created,322,274,368
+11364,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,137,274,35
+11365,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:31 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,163,274,35
+11366,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,114,274,35
+11367,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,128,269,299
+11368,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,125,274,35
+11369,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:32 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,138,274,35
+11370,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,149,274,35
+11371,Tue Mar 11 17:27:31 IST 2025,Tue Mar 11 17:27:32 IST 2025,POST,http://localhost:5000/api/reports,201,Created,266,274,317
+11372,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,150,269,299
+11373,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,136,274,35
+11374,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,149,274,35
+11375,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,121,274,35
+11376,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,122,269,299
+11377,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,185,274,35
+11378,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,159,274,35
+11379,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,175,274,35
+11380,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,POST,http://localhost:5000/api/reports,201,Created,287,274,317
+11381,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,163,269,299
+11382,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,135,274,35
+11383,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,134,274,35
+11384,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,138,274,35
+11385,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,155,269,299
+11386,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,132,274,35
+11387,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,145,274,35
+11388,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,218,274,35
+11389,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,POST,http://localhost:5000/api/reports,201,Created,327,274,360
+11390,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,215,274,35
+11391,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,276,274,35
+11392,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,293,269,299
+11393,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:32 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,183,274,35
+11394,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,142,274,35
+11395,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,165,269,299
+11396,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,124,274,35
+11397,Tue Mar 11 17:27:32 IST 2025,Tue Mar 11 17:27:33 IST 2025,POST,http://localhost:5000/api/reports,201,Created,320,274,360
+11398,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,149,274,35
+11399,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,149,274,35
+11400,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,174,269,299
+11401,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,251,274,35
+11402,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,329,274,35
+11403,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,328,269,299
+11404,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,POST,http://localhost:5000/api/reports,201,Created,595,274,361
+11405,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,264,274,35
+11406,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,213,274,35
+11407,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,224,269,299
+11408,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,161,274,35
+11409,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,149,274,35
+11410,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:33 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,139,269,299
+11411,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:34 IST 2025,POST,http://localhost:5000/api/reports,201,Created,320,274,361
+11412,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,156,274,35
+11413,Tue Mar 11 17:27:33 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,116,269,299
+11414,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,133,274,35
+11415,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,122,269,299
+11416,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,POST,http://localhost:5000/api/reports,201,Created,261,274,362
+11417,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,132,274,35
+11418,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,148,269,299
+11419,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,145,274,35
+11420,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,136,269,299
+11421,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,POST,http://localhost:5000/api/reports,201,Created,299,274,363
+11422,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,148,274,35
+11423,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,142,269,299
+11424,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,131,274,35
+11425,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,148,269,299
+11426,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:34 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,204,274,35
+11427,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:35 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,224,269,299
+11428,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:35 IST 2025,POST,http://localhost:5000/api/reports,201,Created,419,274,363
+11429,Tue Mar 11 17:27:34 IST 2025,Tue Mar 11 17:27:35 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,149,274,35
+11430,Tue Mar 11 17:27:35 IST 2025,Tue Mar 11 17:27:35 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,227,269,299
+11431,Tue Mar 11 17:27:35 IST 2025,Tue Mar 11 17:27:35 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,159,269,299
+11432,Tue Mar 11 17:27:35 IST 2025,Tue Mar 11 17:27:35 IST 2025,POST,http://localhost:5000/api/reports,201,Created,411,274,364
+11436,Tue Mar 11 17:27:35 IST 2025,Tue Mar 11 17:27:35 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,377,269,299
+11438,Tue Mar 11 17:27:35 IST 2025,Tue Mar 11 17:27:36 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,313,269,299
+11439,Tue Mar 11 17:27:35 IST 2025,Tue Mar 11 17:27:36 IST 2025,POST,http://localhost:5000/api/reports,201,Created,734,274,364
+11440,Tue Mar 11 17:27:36 IST 2025,Tue Mar 11 17:27:36 IST 2025,GET,http://localhost:5000,404,Not Found,0,304,139
+11443,Tue Mar 11 17:27:36 IST 2025,Tue Mar 11 17:27:37 IST 2025,GET,http://localhost:5000/api/goals,200,OK,904,274,100752
+11444,Tue Mar 11 17:27:37 IST 2025,Tue Mar 11 17:27:37 IST 2025,GET,http://localhost:5000/api/transactions,200,OK,149,265,2
+11445,Tue Mar 11 17:27:37 IST 2025,Tue Mar 11 17:27:38 IST 2025,POST,http://r11.o.lencr.org/,200,OK,542,385,504
+11446,Tue Mar 11 17:27:38 IST 2025,Tue Mar 11 17:27:38 IST 2025,GET,http://localhost:5000/api/goals,401,Unauthorized,1,277,44
+11447,Tue Mar 11 17:27:38 IST 2025,Tue Mar 11 17:27:38 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11448,Tue Mar 11 17:27:38 IST 2025,Tue Mar 11 17:27:38 IST 2025,GET,http://localhost:5000/api/goals?name=abc,401,Unauthorized,2,277,44
+11449,Tue Mar 11 17:27:39 IST 2025,Tue Mar 11 17:27:39 IST 2025,GET,http://localhost:5000/api/users/login,404,Not Found,2,304,154
+11450,Tue Mar 11 17:27:38 IST 2025,Tue Mar 11 17:27:39 IST 2025,POST,http://r11.o.lencr.org/,200,OK,442,385,504
+11451,Tue Mar 11 17:27:39 IST 2025,Tue Mar 11 17:27:39 IST 2025,GET,http://localhost:5000/api/users/login?name=abc,404,Not Found,1,304,154
+11452,Tue Mar 11 17:27:39 IST 2025,Tue Mar 11 17:27:39 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,401,Unauthorized,1,277,44
+11453,Tue Mar 11 17:27:39 IST 2025,Tue Mar 11 17:27:39 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11454,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:40 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747?name=abc,401,Unauthorized,1,277,44
+11455,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:40 IST 2025,POST,http://r11.o.lencr.org/,200,OK,267,385,504
+11456,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:40 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,401,Unauthorized,2,277,44
+11457,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:40 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11458,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:40 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753?name=abc,401,Unauthorized,1,277,44
+11459,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:41 IST 2025,POST,http://r11.o.lencr.org/,200,OK,808,385,504
+11460,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:41 IST 2025,POST,http://r11.o.lencr.org/,200,OK,305,385,504
+11461,Tue Mar 11 17:27:41 IST 2025,Tue Mar 11 17:27:41 IST 2025,GET,http://localhost:5000/api/goals,401,Unauthorized,1,277,44
+11462,Tue Mar 11 17:27:41 IST 2025,Tue Mar 11 17:27:41 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11463,Tue Mar 11 17:27:41 IST 2025,Tue Mar 11 17:27:41 IST 2025,GET,http://localhost:5000/api/goals?name=abc,401,Unauthorized,2,277,44
+11464,Tue Mar 11 17:27:42 IST 2025,Tue Mar 11 17:27:42 IST 2025,GET,http://localhost:5000/,404,Not Found,1,304,139
+11465,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:42 IST 2025,POST,http://r11.o.lencr.org/,200,OK,1354,385,504
+11466,Tue Mar 11 17:27:41 IST 2025,Tue Mar 11 17:27:42 IST 2025,POST,http://r11.o.lencr.org/,200,OK,1282,385,504
+11467,Tue Mar 11 17:27:41 IST 2025,Tue Mar 11 17:27:42 IST 2025,POST,http://r11.o.lencr.org/,200,OK,1412,385,504
+11468,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:42 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1590,385,504
+11469,Tue Mar 11 17:27:40 IST 2025,Tue Mar 11 17:27:42 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1843,385,504
+11470,Tue Mar 11 17:27:42 IST 2025,Tue Mar 11 17:27:42 IST 2025,GET,http://localhost:5000/?name=abc,404,Not Found,1,304,139
+11471,Tue Mar 11 17:27:42 IST 2025,Tue Mar 11 17:27:42 IST 2025,POST,http://r11.o.lencr.org/,200,OK,912,385,504
+11472,Tue Mar 11 17:27:41 IST 2025,Tue Mar 11 17:27:43 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1591,385,504
+11473,Tue Mar 11 17:27:43 IST 2025,Tue Mar 11 17:27:43 IST 2025,GET,http://localhost:5000/api,404,Not Found,1,304,142
+11474,Tue Mar 11 17:27:41 IST 2025,Tue Mar 11 17:27:44 IST 2025,POST,http://r10.o.lencr.org/,200,OK,2293,385,504
+11475,Tue Mar 11 17:27:44 IST 2025,Tue Mar 11 17:27:44 IST 2025,GET,http://localhost:5000/api?name=abc,404,Not Found,2,304,142
+11476,Tue Mar 11 17:27:42 IST 2025,Tue Mar 11 17:27:44 IST 2025,POST,http://r11.o.lencr.org/,200,OK,1409,385,504
+11477,Tue Mar 11 17:27:43 IST 2025,Tue Mar 11 17:27:44 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1239,385,504
+11478,Tue Mar 11 17:27:43 IST 2025,Tue Mar 11 17:27:44 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1368,385,504
+11479,Tue Mar 11 17:27:43 IST 2025,Tue Mar 11 17:27:44 IST 2025,POST,http://r11.o.lencr.org/,200,OK,1207,385,504
+11480,Tue Mar 11 17:27:44 IST 2025,Tue Mar 11 17:27:45 IST 2025,POST,http://r11.o.lencr.org/,200,OK,943,385,504
+11481,Tue Mar 11 17:27:45 IST 2025,Tue Mar 11 17:27:46 IST 2025,POST,http://r11.o.lencr.org/,200,OK,872,385,504
+11482,Tue Mar 11 17:27:45 IST 2025,Tue Mar 11 17:27:46 IST 2025,POST,http://r11.o.lencr.org/,200,OK,833,385,504
+11483,Tue Mar 11 17:27:45 IST 2025,Tue Mar 11 17:27:46 IST 2025,POST,http://r10.o.lencr.org/,200,OK,788,385,504
+11484,Tue Mar 11 17:27:46 IST 2025,Tue Mar 11 17:27:46 IST 2025,GET,http://localhost:5000/api/goals,401,Unauthorized,8,277,44
+11485,Tue Mar 11 17:27:45 IST 2025,Tue Mar 11 17:27:46 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1218,385,504
+11486,Tue Mar 11 17:27:45 IST 2025,Tue Mar 11 17:27:47 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1386,385,504
+11487,Tue Mar 11 17:27:46 IST 2025,Tue Mar 11 17:27:47 IST 2025,POST,http://r10.o.lencr.org/,200,OK,1273,385,504
+11488,Tue Mar 11 17:27:47 IST 2025,Tue Mar 11 17:27:47 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,2,304,150
+11489,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:48 IST 2025,GET,http://localhost:5000/api/goals?name=abc,401,Unauthorized,1,277,44
+11490,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:48 IST 2025,GET,http://localhost:5000/api/users,401,Unauthorized,1,277,44
+11491,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:48 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,2,304,150
+11492,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:48 IST 2025,GET,http://localhost:5000/api/reports,401,Unauthorized,2,277,44
+11493,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:48 IST 2025,GET,http://localhost:5000/api/users?name=abc,401,Unauthorized,1,277,44
+11494,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:48 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11495,Tue Mar 11 17:27:46 IST 2025,Tue Mar 11 17:27:48 IST 2025,POST,http://r11.o.lencr.org/,200,OK,2404,385,504
+11496,Tue Mar 11 17:27:46 IST 2025,Tue Mar 11 17:27:49 IST 2025,POST,http://r11.o.lencr.org/,200,OK,2198,385,504
+11497,Tue Mar 11 17:27:49 IST 2025,Tue Mar 11 17:27:49 IST 2025,GET,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11498,Tue Mar 11 17:27:49 IST 2025,Tue Mar 11 17:27:49 IST 2025,GET,http://localhost:5000/api/reports?name=abc,401,Unauthorized,1,277,44
+11499,Tue Mar 11 17:27:49 IST 2025,Tue Mar 11 17:27:49 IST 2025,GET,http://localhost:5000/api/users/register,404,Not Found,2,304,157
+11500,Tue Mar 11 17:27:49 IST 2025,Tue Mar 11 17:27:49 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11501,Tue Mar 11 17:27:46 IST 2025,Tue Mar 11 17:27:50 IST 2025,POST,http://r10.o.lencr.org/,200,OK,3044,385,504
+11502,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/api/budgets?name=abc,401,Unauthorized,3,277,44
+11503,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,401,Unauthorized,2,277,44
+11504,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,401,Unauthorized,2,277,44
+11505,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/api/budgets,401,Unauthorized,4,277,44
+11506,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,401,Unauthorized,1,277,44
+11507,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11508,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/api/users/register?name=abc,404,Not Found,1,304,157
+11509,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,2,304,150
+11510,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11511,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753?name=abc,401,Unauthorized,2,277,44
+11512,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:50 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,2,304,150
+11513,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/api/budgets?name=abc,401,Unauthorized,1,277,44
+11514,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753?name=abc,401,Unauthorized,2,277,44
+11515,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747?name=abc,401,Unauthorized,2,277,44
+11516,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,401,Unauthorized,1,277,44
+11517,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/,404,Not Found,1,304,139
+11518,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11519,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,401,Unauthorized,1,277,44
+11520,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11521,Tue Mar 11 17:27:47 IST 2025,Tue Mar 11 17:27:51 IST 2025,POST,http://r10.o.lencr.org/,200,OK,4308,385,504
+11522,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/?name=abc,404,Not Found,1,304,139
+11523,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747?name=abc,401,Unauthorized,2,277,44
+11524,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:51 IST 2025,GET,http://localhost:5000/api/transactions,401,Unauthorized,1,277,44
+11525,Tue Mar 11 17:27:52 IST 2025,Tue Mar 11 17:27:52 IST 2025,GET,http://localhost:5000/favicon.ico,404,Not Found,1,304,150
+11526,Tue Mar 11 17:27:47 IST 2025,Tue Mar 11 17:27:52 IST 2025,POST,http://r11.o.lencr.org/,200,OK,4162,385,504
+11527,Tue Mar 11 17:27:52 IST 2025,Tue Mar 11 17:27:52 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09?name=abc,401,Unauthorized,1,277,44
+11528,Tue Mar 11 17:27:52 IST 2025,Tue Mar 11 17:27:52 IST 2025,GET,http://localhost:5000/api/transactions?name=abc,401,Unauthorized,2,277,44
+11529,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:53 IST 2025,POST,http://r11.o.lencr.org/,200,OK,5500,385,504
+11530,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:55 IST 2025,POST,http://r11.o.lencr.org/,200,OK,6386,385,504
+11531,Tue Mar 11 17:27:49 IST 2025,Tue Mar 11 17:27:55 IST 2025,POST,http://r11.o.lencr.org/,200,OK,6085,385,504
+11532,Tue Mar 11 17:27:49 IST 2025,Tue Mar 11 17:27:55 IST 2025,POST,http://r11.o.lencr.org/,200,OK,5756,385,504
+11533,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:55 IST 2025,POST,http://r10.o.lencr.org/,200,OK,4457,385,504
+11534,Tue Mar 11 17:27:52 IST 2025,Tue Mar 11 17:27:56 IST 2025,POST,http://r11.o.lencr.org/,200,OK,4777,385,504
+11535,Tue Mar 11 17:27:52 IST 2025,Tue Mar 11 17:27:57 IST 2025,POST,http://r10.o.lencr.org/,200,OK,4921,385,504
+11536,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:58 IST 2025,POST,http://r11.o.lencr.org/,200,OK,9762,385,504
+11537,Tue Mar 11 17:27:48 IST 2025,Tue Mar 11 17:27:58 IST 2025,POST,http://r11.o.lencr.org/,200,OK,9673,385,504
+11538,Tue Mar 11 17:27:55 IST 2025,Tue Mar 11 17:27:58 IST 2025,POST,http://r11.o.lencr.org/,200,OK,3443,385,504
+11539,Tue Mar 11 17:27:55 IST 2025,Tue Mar 11 17:27:58 IST 2025,POST,http://r11.o.lencr.org/,200,OK,3443,385,504
+11540,Tue Mar 11 17:27:49 IST 2025,Tue Mar 11 17:27:58 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8949,386,504
+11541,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:58 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8840,386,504
+11542,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8936,385,504
+11543,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8902,385,504
+11544,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8990,385,504
+11545,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,9079,385,504
+11546,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8830,385,504
+11547,Tue Mar 11 17:27:50 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8387,386,504
+11548,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8376,385,504
+11549,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8462,385,504
+11550,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8352,386,504
+11551,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8215,385,504
+11552,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8154,385,504
+11553,Tue Mar 11 17:27:51 IST 2025,Tue Mar 11 17:27:59 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8188,386,504
+11554,Tue Mar 11 17:27:52 IST 2025,Tue Mar 11 17:28:01 IST 2025,POST,http://r11.o.lencr.org/,200,OK,8760,386,504
+11555,Tue Mar 11 17:27:57 IST 2025,Tue Mar 11 17:28:01 IST 2025,POST,http://r10.o.lencr.org/,200,OK,3783,385,504
+11556,Tue Mar 11 17:27:58 IST 2025,Tue Mar 11 17:28:02 IST 2025,POST,http://r11.o.lencr.org/,200,OK,4134,386,504
+11557,Tue Mar 11 17:28:00 IST 2025,Tue Mar 11 17:28:03 IST 2025,POST,http://r11.o.lencr.org/,200,OK,2862,386,504
+11558,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,8,277,44
+11559,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,GET,http://localhost:5000,404,Not Found,9,304,139
+11560,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,11,304,174
+11561,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,11,304,148
+11562,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,4,277,44
+11563,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,15,304,181
+11564,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,5,277,44
+11565,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,2,304,181
+11566,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,9,304,174
+11567,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,9,304,148
+11568,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11569,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11570,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11571,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11572,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,2,304,148
+11573,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11574,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11575,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11576,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11577,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,2,277,44
+11578,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11579,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11580,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11581,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11582,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11583,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11584,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11585,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11586,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11587,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,3,277,44
+11588,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,3,304,174
+11589,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,3,304,181
+11590,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,3,304,148
+11591,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11592,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11593,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11594,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,2,304,148
+11595,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,2,277,44
+11596,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11597,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11598,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11599,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11600,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11601,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11602,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11603,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11604,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11605,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11606,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11607,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11608,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11609,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11610,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11611,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11612,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11613,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11614,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11615,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11616,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11617,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11618,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11619,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,2,277,44
+11620,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11621,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,2,304,181
+11622,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11623,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11624,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11625,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11626,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11627,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11628,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11629,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11630,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11631,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,2,304,181
+11632,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11633,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,2,277,44
+11634,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11635,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11636,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11637,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11638,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11639,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11640,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11641,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11642,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11643,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,2,304,148
+11644,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11645,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11646,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11647,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11648,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11649,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11650,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11651,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11652,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11653,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11654,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11655,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11656,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11657,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11658,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11659,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11660,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,2,304,181
+11661,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,2,277,44
+11662,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,2,304,148
+11663,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11664,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11665,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11666,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11667,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11668,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11669,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11670,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11671,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11672,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11673,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11674,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11675,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11676,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11677,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11678,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11679,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11680,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11681,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11682,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11683,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11684,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11685,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,0,277,44
+11686,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,2,304,181
+11687,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11688,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,2,277,44
+11689,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,2,304,148
+11690,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11691,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11692,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11693,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11694,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11695,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,2,304,174
+11696,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,2,277,44
+11697,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11698,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11699,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/budgets,401,Unauthorized,1,277,44
+11700,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11701,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11702,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11703,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11704,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11705,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11706,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11707,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11708,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11709,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11710,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11711,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11712,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11713,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11714,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11715,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11716,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11717,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11718,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11719,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11720,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11721,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11722,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11723,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11724,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11725,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11726,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11727,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11728,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11729,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11730,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11731,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11732,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11733,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11734,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11735,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11736,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11737,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11738,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11739,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11740,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11741,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11742,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11743,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11744,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11745,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11746,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11747,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11748,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11749,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11750,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11751,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11752,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11753,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11754,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11755,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11756,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11757,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11758,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11759,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11760,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11761,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11762,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11763,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11764,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11765,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11766,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11767,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11768,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11769,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11770,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11771,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11772,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11773,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11774,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,2,304,181
+11775,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,2,304,148
+11776,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11777,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11778,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11779,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11780,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11781,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11782,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11783,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,0,304,181
+11784,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11785,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11786,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,1,304,181
+11787,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,2,304,148
+11788,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11789,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11790,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11791,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11792,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11793,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11794,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11795,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11796,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11797,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11798,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11799,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11800,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11801,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11802,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11803,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11804,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11805,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11806,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11807,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11808,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,3,304,174
+11809,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11810,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11811,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11812,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11813,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11814,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11815,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11816,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11817,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11818,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11819,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11820,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11821,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11822,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11823,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11824,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11825,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11826,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,1,304,174
+11827,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11828,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,404,Not Found,0,304,174
+11829,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11830,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11831,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11832,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11833,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11834,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11835,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11836,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11837,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,1,304,148
+11838,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals,404,Not Found,0,304,148
+11839,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,187,269,299
+11840,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,253,287,159
+11841,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals,201,Created,269,274,284
+11842,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,293,274,35
+11843,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,407,268,228
+11844,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,418,276,33
+11845,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,167,287,160
+11846,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,419,276,33
+11847,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,256,269,299
+11848,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,POST,http://localhost:5000/api/goals,201,Created,196,274,284
+11849,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,197,274,35
+11850,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:05 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,206,268,228
+11851,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,231,276,33
+11852,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,270,287,161
+11853,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,280,276,33
+11854,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,303,269,299
+11855,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/goals,201,Created,345,274,284
+11856,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,239,268,228
+11857,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,372,274,35
+11858,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,238,276,33
+11859,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,281,276,33
+11860,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,292,287,160
+11861,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,331,269,299
+11862,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/goals,201,Created,378,274,284
+11863,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,353,268,228
+11864,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,533,274,35
+11865,Tue Mar 11 17:28:05 IST 2025,Tue Mar 11 17:28:06 IST 2025,GET,http://localhost:5000/api/goals,200,OK,1426,274,101607
+11866,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,545,276,33
+11867,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,555,276,33
+11868,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:06 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,629,287,162
+11869,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,610,269,299
+11870,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,POST,http://localhost:5000/api/goals,201,Created,569,274,284
+11871,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,579,268,228
+11872,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,465,274,35
+11873,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,435,276,33
+11874,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,GET,http://localhost:5000/api/transactions,200,OK,450,265,2
+11875,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,462,269,299
+11876,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,765,276,33
+11877,Tue Mar 11 17:28:06 IST 2025,Tue Mar 11 17:28:07 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,780,287,163
+11878,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:07 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,740,269,299
+11879,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:07 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,813,268,228
+11880,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:07 IST 2025,POST,http://localhost:5000/api/goals,201,Created,852,274,284
+11881,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:07 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,750,274,35
+11882,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:07 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,776,276,33
+11883,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,787,274,35
+11884,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,761,269,299
+11885,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,772,274,35
+11886,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,546,276,33
+11887,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,508,287,161
+11888,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,560,269,299
+11889,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,384,268,228
+11890,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,375,274,35
+11891,Tue Mar 11 17:28:07 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/goals,201,Created,406,274,284
+11892,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,408,276,33
+11893,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,428,274,35
+11894,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,430,269,299
+11895,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,458,274,35
+11896,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,274,276,33
+11897,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,322,287,163
+11898,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,276,269,299
+11899,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,294,268,228
+11900,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,306,274,35
+11901,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/goals,201,Created,313,274,284
+11902,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,280,276,33
+11903,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,281,274,35
+11904,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,307,269,299
+11905,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,301,274,35
+11906,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,314,276,33
+11907,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,232,287,164
+11908,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,212,269,299
+11909,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,201,268,228
+11910,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,171,274,35
+11911,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/goals,201,Created,191,274,284
+11912,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,174,274,35
+11913,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,196,276,33
+11914,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,164,269,299
+11915,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,154,274,35
+11916,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,158,276,33
+11917,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,183,287,158
+11918,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11919,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,3,287,149
+11920,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11921,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:08 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,3,287,149
+11922,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,1,287,149
+11923,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,160,268,228
+11924,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,1,287,149
+11925,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11926,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11927,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,178,269,299
+11928,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11929,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11930,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,1,287,149
+11931,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,174,274,35
+11932,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,3,287,149
+11933,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,0,287,149
+11934,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11935,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,1,287,149
+11936,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,1,287,149
+11937,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11938,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,1,287,149
+11939,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,1,287,149
+11940,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,500,Internal Server Error,2,287,149
+11941,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/goals,201,Created,156,274,284
+11942,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,164,274,35
+11943,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,183,276,33
+11944,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,167,269,299
+11945,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,169,274,35
+11946,Tue Mar 11 17:28:08 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/users/register,400,Bad Request,159,276,33
+11947,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,130,268,228
+11948,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,157,274,35
+11949,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,167,269,326
+11950,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,194,274,35
+11951,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/goals,201,Created,226,274,311
+11952,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,348,276,33
+11953,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,286,268,228
+11954,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,336,269,326
+11955,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,324,274,35
+11956,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,246,274,35
+11957,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,244,269,327
+11958,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,201,Created,460,274,344
+11959,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,244,274,35
+11960,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/goals,201,Created,232,274,312
+11961,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,263,276,33
+11962,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,263,268,228
+11963,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,262,269,327
+11964,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,262,274,35
+11965,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,263,274,35
+11966,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,272,269,328
+11967,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,602,287,131
+11968,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,268,274,35
+11969,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/goals,201,Created,279,274,313
+11970,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,190,276,33
+11971,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,191,268,228
+11972,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,190,269,328
+11973,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,191,274,35
+11974,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,191,274,35
+11975,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,267,269,327
+11976,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,202,274,35
+11977,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/goals,201,Created,191,274,312
+11978,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:09 IST 2025,POST,http://localhost:5000/api/reports,201,Created,471,274,345
+11979,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,205,276,33
+11980,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,221,268,228
+11981,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,235,269,327
+11982,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,234,274,35
+11983,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,237,274,35
+11984,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,417,287,131
+11985,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,200,269,329
+11986,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,212,274,35
+11987,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/goals,201,Created,235,274,314
+11988,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,233,276,33
+11989,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,217,268,228
+11990,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,203,269,329
+11991,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,205,274,35
+11992,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,202,274,35
+11993,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,251,269,330
+11994,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/goals,201,Created,280,274,315
+11995,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,314,274,35
+11996,Tue Mar 11 17:28:09 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/reports,201,Created,615,274,346
+11997,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,363,268,228
+11998,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,439,276,33
+11999,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,439,269,330
+12000,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,438,274,35
+12001,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,561,274,35
+12002,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,796,287,131
+12003,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:10 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,583,269,328
+12004,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/goals,201,Created,533,274,313
+12005,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,582,274,35
+12006,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,456,268,228
+12007,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,488,276,33
+12008,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,488,269,328
+12009,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,488,274,35
+12010,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,446,274,35
+12011,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,489,269,330
+12012,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/goals,201,Created,480,274,315
+12013,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,455,274,35
+12014,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/reports,201,Created,983,274,345
+12015,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,440,268,228
+12016,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,365,269,330
+12017,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,429,276,33
+12018,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,431,274,35
+12019,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,349,274,35
+12020,Tue Mar 11 17:28:10 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,785,287,131
+12021,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,281,269,331
+12022,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,325,274,35
+12023,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/goals,201,Created,359,274,316
+12024,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,279,268,228
+12025,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,253,269,331
+12026,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,258,276,33
+12027,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,257,274,35
+12028,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,257,274,35
+12029,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,228,269,325
+12030,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,120
+12031,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:11 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,3,287,121
+12032,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/reports,201,Created,441,274,347
+12033,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,124
+12034,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,121
+12035,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,155,274,35
+12036,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,123
+12037,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,3,287,126
+12038,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,122
+12039,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,124
+12040,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,127
+12041,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,119
+12042,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,119
+12043,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,120
+12044,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,123
+12045,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,120
+12046,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,122
+12047,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,125
+12048,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,121
+12049,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,123
+12050,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,126
+12051,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,118
+12052,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,134
+12053,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,135
+12054,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,138
+12055,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,3,287,135
+12056,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,137
+12057,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,140
+12058,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,136
+12059,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,138
+12060,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,2,287,141
+12061,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,500,Internal Server Error,1,287,133
+12062,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,387,268,228
+12063,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,201,Created,388,274,310
+12064,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,4,287,158
+12065,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,159
+12066,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,162
+12067,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,159
+12068,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,1,287,161
+12069,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,164
+12070,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,160
+12071,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,162
+12072,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,165
+12073,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,500,Internal Server Error,2,287,157
+12074,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,535,269,325
+12075,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/users/login,400,Bad Request,542,276,33
+12076,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,542,274,35
+12077,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,554,274,35
+12078,Tue Mar 11 17:28:11 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,821,287,131
+12079,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,566,274,35
+12080,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,370,268,228
+12081,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,580,269,299
+12082,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,201,Created,388,274,284
+12083,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,264,269,299
+12084,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,195,274,35
+12085,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,195,274,35
+12086,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/reports,201,Created,758,274,348
+12087,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,227,274,35
+12088,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,211,268,228
+12089,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,207,269,299
+12090,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/goals,201,Created,193,274,284
+12091,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,193,269,299
+12092,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,178,274,35
+12093,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,198,274,35
+12094,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,381,287,131
+12095,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,131,274,35
+12096,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,136,268,228
+12097,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:12 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,136,269,299
+12098,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/goals,201,Created,156,274,284
+12099,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,163,269,299
+12100,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,192,274,35
+12101,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,198,274,35
+12102,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/reports,201,Created,399,274,346
+12103,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,203,268,228
+12104,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,229,274,35
+12105,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,189,269,299
+12106,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/goals,201,Created,176,274,284
+12107,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,178,269,299
+12108,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,155,274,35
+12109,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,144,274,35
+12110,Tue Mar 11 17:28:12 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,377,287,131
+12111,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,140,274,35
+12112,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,140,268,228
+12113,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,156,269,299
+12114,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,140,269,299
+12115,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/goals,201,Created,154,274,284
+12116,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,128,274,35
+12117,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,129,274,35
+12118,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/reports,201,Created,246,274,348
+12119,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,PUT,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,185,274,35
+12120,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/budgets,200,OK,185,268,228
+12121,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,PUT,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,164,269,299
+12122,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/goals/67d01f53451b07fb136ae753,200,OK,154,269,299
+12123,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67d01c58451b07fb136ae747,404,Not Found,153,274,35
+12124,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/goals,201,Created,155,274,284
+12125,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,GET,http://localhost:5000/api/transactions/67cfc585ef28b10540c65b09,404,Not Found,153,274,35
+12126,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/users/register,500,Internal Server Error,320,287,131
+12127,Tue Mar 11 17:28:13 IST 2025,Tue Mar 11 17:28:13 IST 2025,POST,http://localhost:5000/api/reports,201,Created,255,274,349
