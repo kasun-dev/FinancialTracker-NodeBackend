@@ -1,6 +1,7 @@
 const Transaction = require("../models/Transaction");
 const Budget = require("../models/Budget");
 const Notification = require("../models/Notification");
+const Goal = require("../models/Goals");
 const moment = require("moment");
 
 // Create a new transaction
@@ -18,11 +19,10 @@ exports.createTransaction = async (req, res) => {
         const year = transactionDate.getFullYear();
 
         if (type === "expense") {
-            // Find the budget for the given category and month
+            // Check if the transaction exceeds the budget
             const budget = await Budget.findOne({ userId: req.user.id, category, month, year });
 
             if (budget) {
-                // Calculate total spent for the category in the current month
                 const totalSpent = await Transaction.aggregate([
                     {
                         $match: {
@@ -46,7 +46,6 @@ exports.createTransaction = async (req, res) => {
                 const spentAmount = totalSpent.length > 0 ? totalSpent[0].total : 0;
                 const newTotalSpent = spentAmount + amount;
 
-                // If the new transaction exceeds the budget limit, create a notification
                 if (newTotalSpent > budget.limit) {
                     await Notification.create({
                         userId: req.user.id,
@@ -68,6 +67,51 @@ exports.createTransaction = async (req, res) => {
             date,
             notes
         });
+
+        // If it's an income transaction, auto-allocate funds to goals
+        if (type === "income") {
+            const goals = await Goal.find({ userId: req.user.id, autoAllocate: true });
+
+            if (goals.length > 0) {
+                let totalAllocated = 0;
+
+                for (const goal of goals) {
+                    // Calculate the percentage of income to be allocated
+                    const allocationAmount = Math.min(amount * 0.10, goal.targetAmount - (goal.currentSavings || 0)); // Allocating 10% of income
+                    if (allocationAmount > 0) {
+                        totalAllocated += allocationAmount;
+
+                        // Create an expense transaction for the allocated amount
+                        await Transaction.create({
+                            userId: req.user.id,
+                            amount: allocationAmount,
+                            type: "expense",
+                            category: `Goal: ${goal.goalName}`,
+                            date,
+                            notes: "Auto-allocated to savings goal"
+                        });
+
+                        // Update goal progress
+                        await Goal.findByIdAndUpdate(goal._id, { $inc: { currentSavings: allocationAmount } });
+
+                        // Create a notification for the user
+                        await Notification.create({
+                            userId: req.user.id,
+                            message: `An amount of ${allocationAmount} has been auto-allocated to your goal: ${goal.goalName}`,
+                            type: "goal_allocation"
+                        });
+                    }
+                }
+
+                if (totalAllocated > 0) {
+                    await Notification.create({
+                        userId: req.user.id,
+                        message: `Total of ${totalAllocated} auto-allocated to financial goals from your income.`,
+                        type: "goal_allocation_summary"
+                    });
+                }
+            }
+        }
 
         res.status(201).json(transaction);
     } catch (error) {
