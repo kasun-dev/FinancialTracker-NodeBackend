@@ -1,4 +1,6 @@
 const Transaction = require("../models/Transaction");
+const Budget = require("../models/Budget");
+const Notification = require("../models/Notification");
 const moment = require("moment");
 
 // Create a new transaction
@@ -10,6 +12,52 @@ exports.createTransaction = async (req, res) => {
             return res.status(400).json({ message: "All required fields must be filled" });
         }
 
+        // Convert date to a JavaScript Date object
+        const transactionDate = new Date(date);
+        const month = transactionDate.getMonth() + 1; // JavaScript months are 0-based
+        const year = transactionDate.getFullYear();
+
+        if (type === "expense") {
+            // Find the budget for the given category and month
+            const budget = await Budget.findOne({ userId: req.user.id, category, month, year });
+
+            if (budget) {
+                // Calculate total spent for the category in the current month
+                const totalSpent = await Transaction.aggregate([
+                    {
+                        $match: {
+                            userId: req.user.id,
+                            category: category,
+                            type: "expense",
+                            date: {
+                                $gte: new Date(`${year}-${month}-01`),
+                                $lt: new Date(`${year}-${month + 1}-01`)
+                            }
+                        }
+                    },
+                    {
+                        $group: {
+                            _id: null,
+                            total: { $sum: "$amount" }
+                        }
+                    }
+                ]);
+
+                const spentAmount = totalSpent.length > 0 ? totalSpent[0].total : 0;
+                const newTotalSpent = spentAmount + amount;
+
+                // If the new transaction exceeds the budget limit, create a notification
+                if (newTotalSpent > budget.limit) {
+                    await Notification.create({
+                        userId: req.user.id,
+                        message: `Your budget for ${category} has been exceeded. Limit: ${budget.limit}, Spent: ${newTotalSpent}`,
+                        type: "budget_exceeded"
+                    });
+                }
+            }
+        }
+
+        // Create the transaction
         const transaction = await Transaction.create({
             userId: req.user.id,
             amount,
