@@ -3,13 +3,16 @@ const app = require("../server");
 const mongoose = require("mongoose");
 const connectDB = require("../config/db");
 const Report = require("../models/Report");
-const Transaction = require("../models/Transaction"); // Add this import
+const Transaction = require("../models/Transaction"); 
+
+// Import the generateReport function from the correct controller
+const { generateReport } = require("../controllers/reportController"); 
 
 // Mocking the Report and Transaction models
 jest.mock("../models/Report");
 jest.mock("../models/Transaction");
 
-let userToken, reportId;
+let userToken;
 
 beforeAll(async () => {
     process.env.NODE_ENV = "test";

@@ -67,7 +67,7 @@ npm install -g artillery
 
 #### Run performance tests:
 ```sh
-artillery run performance-config.yml
+artillery run load-test.yml 
 ```
 Test results are stored in:
 ```

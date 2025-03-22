@@ -1,8 +1,8 @@
 const axios = require("axios");
-const Transaction = require("../models/Transactions");
+const Transaction = require("../models/Transaction");
 const Budget = require("../models/Budget");
 const Goal = require("../models/Goals");
-const Notification = require("../models/Notifications");
+const Notification = require("../models/Notification");
 
 const EXCHANGE_API_KEY = "0cc4d9306aad0d84f58567a3"; // Your API Key
 const EXCHANGE_API_URL = `https://v6.exchangerate-api.com/v6/${EXCHANGE_API_KEY}/latest/`;
