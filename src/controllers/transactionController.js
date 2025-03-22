@@ -63,13 +63,57 @@ exports.createTransaction = async (req, res) => {
                     await Notification.create({
                         userId: req.user.id,
                         message: `Your budget for ${category} has been exceeded. Limit: ${budget.limit}, Spent: ${newTotalSpent}`,
-                        type: "budget_exceeded"
+                        type: "budget_alert"
                     });
                 }
+                if (newTotalSpent === budget.limit) {
+                    await Notification.create({
+                        userId: req.user.id,
+                        message: `Your budget for ${category} reached. Limit: ${budget.limit}, Spent: ${newTotalSpent}`,
+                        type: "reminder"
+                    });
+                }
+                // Check if the user has spent 75% of the budget
+                if (newTotalSpent === budget.limit*0.75) {
+                    await Notification.create({
+                        userId: req.user.id,
+                        message: `Your budget for ${category} reached 75%. Limit: ${budget.limit}, Spent: ${newTotalSpent}`,
+                        type: "reminder"
+                    });
+
+                    const transaction = await Transaction.create({
+                        userId: req.user.id,
+                        amount: convertedAmount, // Store in LKR
+                        type,
+                        category,
+                        currency: userCurrency, // Store original currency
+                        tags,
+                        recurrence,
+                        date,
+                        notes
+                    });
+                }
+                // check the expence trancection is less than the budget limit
+                if (newTotalSpent < budget.limit) {
+                    
+                    const transaction = await Transaction.create({
+                        userId: req.user.id,
+                        amount: convertedAmount, // Store in LKR
+                        type,
+                        category,
+                        currency: userCurrency, // Store original currency
+                        tags,
+                        recurrence,
+                        date,
+                        notes
+                    });
+                }
+                
             }
         }
+        
 
-        // Create the transaction
+            /* Create the transaction
         const transaction = await Transaction.create({
             userId: req.user.id,
             amount: convertedAmount, // Store in LKR
@@ -80,7 +124,10 @@ exports.createTransaction = async (req, res) => {
             recurrence,
             date,
             notes
-        });
+        });*/
+        
+
+        
 
         // If it's an income transaction, auto-allocate funds to goals
         if (type === "income") {
@@ -130,7 +177,7 @@ exports.createTransaction = async (req, res) => {
 
         res.status(201).json(transaction);
     } catch (error) {
-        res.status(500).json({ message: error.message });
+        res.status(201).json({ message: error.message });
     }
 };
 
